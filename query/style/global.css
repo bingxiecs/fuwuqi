@@ -1,0 +1,81 @@
+/*
+Template Name: JiMoBan.com Default ¨¦???¡§??????¡®???
+Template URI: http://www.jimoban.com/
+Description: ¨¦??¨¨?¡è????o¡ì?¡ë?.
+Version: 2.3.1
+Author: JiMoBan Team
+Author URI: http://www.jimoban.com/
+Logo filename: logo.gif
+Template Type: type_0
+*/
+
+
+/* ====================
+     ?¡­??¡­¡À??¡¤???
+==================== */
+body {background:#f2f2f2; font-size:14px; font-family:"???¨¨?¡¥¨¦?¡­¨¦?¡®", Verdana, Arial; line-height:150%; margin:0; padding:0; color:#333; }
+div{margin:0 auto; padding:0;}
+a{text-decoration:none; color:#333;}
+a:hover{text-decoration:underline;}
+h1, h2, h3, h4, h5, h6, ul, li, dl, dt, dd, form, img, p { margin:0; padding:0; border:none; list-style-type:none; }
+.f_l { float:left; }
+.f_r { float:right; }
+.tl { text-align:left; }
+.tc { text-align:center; }
+.tr { text-align:right; }
+.dis { display:block; }
+.inline { display:inline; }
+.none { display:none; }
+.dashed { background:url(images/lineBg.gif) repeat-x left top; color:#3f3f3f; padding:2px 0 3px 12px; }
+.clearfix:after { content:"."; display:block; height:0; clear:both; visibility:hidden; }
+*html .clearfix { height:1%; }
+*+html .clearfix { height:1%; }
+
+/*¨¨?¡À?¨C???o?????¡é¨¨??*/
+.word { word-break:break-all; }
+
+/*¨¨?1???*/
+	.B_blue { border:1px solid #c5e4ff; }
+	.B_input { border:1px solid #0f97ed; }
+	.inputBg { border:1px solid #b3b3b3; background:url(images/inputbg.gif) repeat-x left top; height:18px; }
+	
+
+/*?-¡ª??¡°¨¦¡é?¨¨¡ë2*/
+	.f1 { color:red; }
+	.f2 { color:#006bd0; font-weight:bold; margin-right:15px; }
+	.f3 { color:#9e9e9e; }
+	.f4 { color:#fe596a; }
+	.f4_b { color:#fe596a; font-weight:bold; }
+	.f5 { font-size:14px; font-weight:bold; }
+	.f6 { color:#006bd0; }
+	.market { font-size:14px; text-decoration:line-through; }
+	.shop { color:#fe596a; font-size:14px; font-weight:600; }
+	.market_s { text-decoration:line-through; }
+	.shop_s { color:#fe596a; }
+	
+/*??¡ë¨¦¡¯?¨¦?¡§???*/
+	.bnt_blue { background:url(images/bg.gif) no-repeat 0px 0px; width:52px; height:21px; text-align:center; line-height:21px; color:#fff; border:none; cursor:pointer; }
+	.bnt_blue_1 { background:url(images/bg.gif) no-repeat 0px -663px; width:77px; height:21px; text-align:center; line-height:21px; color:#fff; border:none; cursor:pointer; }
+	.bnt_blue_2 { background:url(images/bg.gif) no-repeat 0px -696px; width:139px; height:21px; text-align:center; line-height:21px; color:#fff; border:none; cursor:pointer; }
+	.bnt_bonus { background:url(images/bg.gif) no-repeat -56px 0px; width:52px; height:21px; text-align:center; line-height:21px; color:#fff; border:none; cursor:pointer; }
+
+/*¨¦¡é????*/
+h1{font-size:18px;}
+h2{font-size:15px;}
+h3{font-size:15px;}
+h4{font-size:15px;}
+h5{font-size:15px;}
+h6{font-size:15px;}
+
+
+
+	/*??o???*/
+	.blank{height:1px; clear:both;}
+	.blank5{height:5px; clear:both;}
+	.blank10{height:10px; clear:both;}
+	.blank15{height:15px; clear:both;}
+	.blank20{height:20px; clear:both;}
+	.blank25{height:25px; clear:both;}
+	.blank30{height:30px; clear:both;}
+	.blank35{height:35px; clear:both;}
+	.blank50{height:50px; clear:both;}
